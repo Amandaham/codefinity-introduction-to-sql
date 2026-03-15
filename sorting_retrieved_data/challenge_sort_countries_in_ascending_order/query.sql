@@ -1,0 +1,3 @@
+SELECT DISTINCT name
+FROM country
+ORDER BY name ASC;
